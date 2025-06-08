@@ -62,5 +62,5 @@ Churn Prediction: Similar modeling techniques can be applied to predict customer
 Personalized Campaigns: Enables banks to personalize their approach to customer acquisition and retention.
 
 
-Output
+Output : ![Image](https://github.com/user-attachments/assets/1adc4c65-7d63-499b-a954-19fa3a28727e)
 
